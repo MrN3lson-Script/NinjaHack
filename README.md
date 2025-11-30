@@ -37,7 +37,7 @@ cd NinjaHack
 
 pip install -r requirements.txt
 
-unzip NinjaHack.zip
+7z x NinjaHack.7z
 
 cd NinjaHack
 
