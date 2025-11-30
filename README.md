@@ -32,8 +32,13 @@ NinjaHack is a comprehensive penetration testing framework designed for authoriz
 
 ## 🛠️ Installation
 git clone https://github.com/MrN3lson/NinjaHack.git
+
 cd NinjaHack
+
 pip install -r requirements.txt
+
 unzip NinjaHack.zip
+
 cd NinjaHack
+
 python main.py
