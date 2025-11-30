@@ -1,4 +1,4 @@
-# NinjaHack - Advanced Penetration Testing Framework
+# NinjaHack - Penetration Testing Framework
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/License-GPLv3-green.svg)
