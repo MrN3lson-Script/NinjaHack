@@ -31,7 +31,7 @@ NinjaHack is a comprehensive penetration testing framework designed for authoriz
 - **Multi-API Support**: Key rotation and fallback authentication
 
 ## 🛠️ Installation
-git clone https://github.com/MrN3lson/NinjaHack.git
+git clone https://github.com/MrN3lson-Script/NinjaHack.git
 
 cd NinjaHack
 
