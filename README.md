@@ -163,4 +163,5 @@ Legal Requirements
 4. Data Protection: Secure handling of all collected information
 
 📸 Screenshots - 2025
-Soon...
+
+![ScreenLinux](https://github.com/MrN3lson-Script/NinjaHack/blob/ae8ea00ac4ad0223cf70f3419d9a7e4aa6e13f78/Screenshot_Linux.jpg)
