@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/License-GPLv3-green.svg)
-![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey.svg)
+![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS%20%7C%20Android-lightgrey.svg)
 ![NinjaHack](https://github.com/MrN3lson-Script/NinjaHack/blob/7d81788af72afcb6bd037e6d2938ebb537ab521b/ninja.png)
 ## 🚀 Next-Generation Cybersecurity Assessment Tool
 
